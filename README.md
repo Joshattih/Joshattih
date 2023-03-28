@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Joshattih
 - 👀 I’m interested in Aerospace Engineering and Machine Learning 
-- 🌱 I’m currently learning for my BSc in Physics, University of Ghana
-- 💞️ I’m looking to collaborate on any project in AI or even Astronomy
+- 💞️ With a Physics and Astronomy background, I’m looking to collaborate on any project in AI applications ins Space Engineering and Astronomy or Space Sciences
 - 📫 How to reach me .. attihjoshua@gmail.com
 
 <!---
